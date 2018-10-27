@@ -15,6 +15,7 @@ QGIS 3.4 or later is required to run this set as intended. When using older vers
 Download the repository and create your QGIS Project in the main folder. 
 Add your OSM data downloaded from http://download.geofabrik.de/ as .shp.zip format and add it to your project.
 Now add the .qml files via right-clicking on each layer -> properties -> style -> load style.
+Of course you can also use another folder structure. To keep symbols just open the .qml files with a texteditor and replace all paths.
 
 # Background and intention
 I often need vector maps based on osm data. As ive done a new map (and style) everytime I started a new project I decided to create a style I can use for all places in the world in all scales. A criteria is, that no data shall be modified neither new layers created. Goal is to just download data, add styles and done.
