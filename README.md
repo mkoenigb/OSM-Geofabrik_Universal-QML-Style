@@ -1,9 +1,10 @@
 # OSM Geofabrik Universal QML Style
 A universal QML style set for OSM Geofabrik Shapefile extracts for use in QGIS
 *Comming Soon*
+Current Version: v0.1
 
 # What it is
-This is a style set for QGIS in .qml format.
+This is a style set for QGIS in .qml format for osm extracts in shapefile format from geofabrik.de.
 
 # Requirements
 QGIS 3.4 or later is required to run this set as intended. When using older versions some styles might not work as intended.
