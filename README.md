@@ -1,5 +1,6 @@
 # OSM Geofabrik Universal QML Style
-A universal QML style set for OSM Geofabrik Shapefile extracts for use in QGIS 
+A universal QML style set for OSM Geofabrik Shapefile extracts for use in QGIS
+*Comming Soon*
 
 # What it is
 This is a style set for QGIS in .qml format.
@@ -18,7 +19,7 @@ Of course achiving this goal is a giant task.
 So feel free to help and improve this project. Modify, adapt, improve and re-share!
 
 # How does it look like
-
+![example](https://abload.de/image.php?img=unbenannte4e33.jpg)
 
 # License
 Symbols are mainly taken from here https://www.mapbox.com/maki-icons/, some are self made and some taken from wikipedia.org
