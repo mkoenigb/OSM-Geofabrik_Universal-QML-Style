@@ -15,6 +15,7 @@ Add your OSM data downloaded from http://download.geofabrik.de/ as .shp.zip form
 Now add the .qml files via right-clicking on each layer -> properties -> style -> load style.
 Of course you can also use another folder structure. To keep symbols just open the .qml files with a texteditor and replace all paths.
 Suggested layerorder:
+
 ![layerorder](https://github.com/MrXsquared/OSM-Geofabrik_Universal-QML-Style/blob/master/examples/layerorder.jpg)
 
 # Background and intention
