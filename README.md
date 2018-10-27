@@ -20,7 +20,7 @@ Of course you can also use another folder structure. To keep symbols just open t
 # Background and intention
 I often need vector maps based on osm data. As ive done a new map (and style) everytime I started a new project I decided to create a style I can use for all places in the world in all scales. A criteria is, that no data shall be modified neither new layers created. Goal is to just download data, add styles and done.
 Of course achiving this goal is a giant task.
-So feel free to help and improve this project. Modify, adapt, improve and re-share!
+**So feel free to help and improve this project. Modify, adapt, improve and re-share!**
 
 # How does it look like
 ![example](https://abload.de/img/unbenannte4e33.jpg)
