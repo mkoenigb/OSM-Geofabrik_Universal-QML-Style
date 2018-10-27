@@ -14,6 +14,8 @@ Download the repository and create your QGIS Project in the main folder.
 Add your OSM data downloaded from http://download.geofabrik.de/ as .shp.zip format and add it to your project.
 Now add the .qml files via right-clicking on each layer -> properties -> style -> load style.
 Of course you can also use another folder structure. To keep symbols just open the .qml files with a texteditor and replace all paths.
+Suggested layerorder:
+![layerorder](https://github.com/MrXsquared/OSM-Geofabrik_Universal-QML-Style/blob/master/examples/layerorder.jpg)
 
 # Background and intention
 I often need vector maps based on osm data. As ive done a new map (and style) everytime I started a new project I decided to create a style I can use for all places in the world in all scales. A criteria is, that no data shall be modified neither new layers created. Goal is to just download data, add styles and done.
@@ -21,7 +23,7 @@ Of course achiving this goal is a giant task.
 **So feel free to help and improve this project. Modify, adapt, improve and re-share!**
 
 # How does it look like
-![example](https://abload.de/img/unbenannte4e33.jpg)
+![example_v0.1](https://github.com/MrXsquared/OSM-Geofabrik_Universal-QML-Style/blob/master/examples/v0.1.jpg)
 
 # License
 Symbols are mainly taken from here https://www.mapbox.com/maki-icons/, some are self made and some taken from wikipedia.org
