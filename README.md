@@ -19,7 +19,7 @@ Of course achiving this goal is a giant task.
 So feel free to help and improve this project. Modify, adapt, improve and re-share!
 
 # How does it look like
-![example](https://abload.de/image.php?img=unbenannte4e33.jpg)
+![example](https://abload.de/img/unbenannte4e33.jpg)
 
 # License
 Symbols are mainly taken from here https://www.mapbox.com/maki-icons/, some are self made and some taken from wikipedia.org
