@@ -10,9 +10,9 @@ This is a style set for QGIS in .qml format for osm extracts in shapefile format
 QGIS 3.4 or later is required to run this set as intended. When using older versions some styles might not work as intended.
 
 # How to use / install
-Download the repository and create your QGIS Project in the main folder. 
-Add your OSM data downloaded from http://download.geofabrik.de/ as .shp.zip format and add it to your project.
-Now add the .qml files via right-clicking on each layer -> properties -> style -> load style.
+Download the repository and create your QGIS Project in the main folder, or just use ExampleProject.qgs.
+Add your OSM data downloaded from http://download.geofabrik.de/ as .shp.zip format and unpack it to Geofabrikdata folder.
+Now add the .qml files via right-clicking on each layer -> properties -> style -> load style (Not necessary when using ExampleProject.qgs).
 Of course you can also use another folder structure. To keep symbols just open the .qml files with a texteditor and replace all paths.
 Suggested layerorder:
 
