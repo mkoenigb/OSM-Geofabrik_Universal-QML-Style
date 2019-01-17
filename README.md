@@ -26,9 +26,11 @@ Of course achiving this goal is a giant task.
 # How does it look like
 ![example_v0.1](https://github.com/MrXsquared/OSM-Geofabrik_Universal-QML-Style/blob/master/examples/v0.1.jpg)
 
-# License
-Symbols are mainly taken from here https://www.mapbox.com/maki-icons/, some are self made and some taken from wikipedia.org
+# Credits
+Symbols are mainly taken from here https://www.mapbox.com/maki-icons/, some are self made.
+Also I got some inspiration from these two projects: https://github.com/yannos/Beautiful_OSM_in_QGIS and https://github.com/yannos/Beautiful_OSM_in_QGIS. So I used e.g. the same scale ranges or similar stylings.
 
+# License
 MIT License
 
 Copyright (c) 2018 MrXsquared
