@@ -28,7 +28,7 @@ Of course achiving this goal is a giant task.
 
 # Credits
 Symbols are mainly taken from here https://www.mapbox.com/maki-icons/, some are self made.
-Also I got some inspiration (besides from OSM itself) from these two projects: https://github.com/yannos/Beautiful_OSM_in_QGIS and https://github.com/yannos/Beautiful_OSM_in_QGIS. So I used e.g. the same scale ranges or similar stylings.
+Also I got some inspiration (besides from OSM itself) from these two projects: https://github.com/yannos/Beautiful_OSM_in_QGIS and https://github.com/yannos/Beautiful_OSM_in_QGIS. So I used e.g. the same scale ranges or similar stylings for buildings/shadows.
 
 # License
 MIT License
