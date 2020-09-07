@@ -1,3 +1,5 @@
+#This repository has been moved to https://github.com/mkoenigb/OpenStreetMap_QML-Style/
+
 # OSM Geofabrik Universal QML Style
 A universal QML style set for OSM Geofabrik Shapefile extracts for use in QGIS
 
