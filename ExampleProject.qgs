@@ -4151,7 +4151,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="0,0,0,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/christian-15.svg"/>
+              <prop k="name" v="Symbols/15/christian-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -4179,7 +4179,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="152,125,183,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/buddhism-15.svg"/>
+              <prop k="name" v="Symbols/15/buddhism-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -4236,7 +4236,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="183,72,75,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/jewish-15.svg"/>
+              <prop k="name" v="Symbols/15/jewish-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -4264,7 +4264,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="255,158,23,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/muslim-15.svg"/>
+              <prop k="name" v="Symbols/15/muslim-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5679,7 +5679,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="200,103,137,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/art-gallery-15.svg"/>
+              <prop k="name" v="Symbols/15/art-gallery-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5707,7 +5707,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="134,222,161,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/bank-15.svg"/>
+              <prop k="name" v="Symbols/15/bank-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5735,7 +5735,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="26,235,180,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/cafe-15.svg"/>
+              <prop k="name" v="Symbols/15/cafe-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5763,7 +5763,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="122,216,45,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/campsite-15.svg"/>
+              <prop k="name" v="Symbols/15/campsite-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5791,7 +5791,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="215,109,220,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/car-rental-15.svg"/>
+              <prop k="name" v="Symbols/15/car-rental-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5819,7 +5819,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="162,118,212,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/castle-15.svg"/>
+              <prop k="name" v="Symbols/15/castle-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5847,7 +5847,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="138,218,25,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/pharmacy-15.svg"/>
+              <prop k="name" v="Symbols/15/pharmacy-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5875,7 +5875,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="33,182,205,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/cinema-15.svg"/>
+              <prop k="name" v="Symbols/15/cinema-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5903,7 +5903,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="22,200,129,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/college-15.svg"/>
+              <prop k="name" v="Symbols/15/college-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5931,7 +5931,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="211,124,211,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/residential-community-15.svg"/>
+              <prop k="name" v="Symbols/15/residential-community-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5959,7 +5959,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="219,48,94,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/grocery-15.svg"/>
+              <prop k="name" v="Symbols/15/grocery-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -5987,7 +5987,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="234,22,114,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/dentist-15.svg"/>
+              <prop k="name" v="Symbols/15/dentist-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6015,7 +6015,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="186,236,60,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/attraction-15.svg"/>
+              <prop k="name" v="Symbols/15/attraction-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6043,7 +6043,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="41,239,230,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/doctor-15.svg"/>
+              <prop k="name" v="Symbols/15/doctor-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6071,7 +6071,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="217,12,111,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/dog-park-15.svg"/>
+              <prop k="name" v="Symbols/15/dog-park-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6099,7 +6099,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="35,221,131,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/hardware-15.svg"/>
+              <prop k="name" v="Symbols/15/hardware-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6127,7 +6127,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="105,220,22,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/water-15.svg"/>
+              <prop k="name" v="Symbols/15/water-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6155,7 +6155,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="221,126,197,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/embassy-15.svg"/>
+              <prop k="name" v="Symbols/15/embassy-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6183,7 +6183,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="41,232,121,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/fast-food-15.svg"/>
+              <prop k="name" v="Symbols/15/fast-food-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6211,7 +6211,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="76,231,65,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/fire-station-15.svg"/>
+              <prop k="name" v="Symbols/15/fire-station-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6239,7 +6239,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="229,182,54,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/florist-15.svg"/>
+              <prop k="name" v="Symbols/15/florist-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6267,7 +6267,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="80,77,227,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/restaurant-15.svg"/>
+              <prop k="name" v="Symbols/15/restaurant-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6295,7 +6295,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="98,148,204,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/furniture-15.svg"/>
+              <prop k="name" v="Symbols/15/furniture-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6323,7 +6323,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="24,93,230,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/bakery-15.svg"/>
+              <prop k="name" v="Symbols/15/bakery-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6351,7 +6351,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="240,185,45,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/garden-center-15.svg"/>
+              <prop k="name" v="Symbols/15/garden-center-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6379,7 +6379,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="232,76,136,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/gift-15.svg"/>
+              <prop k="name" v="Symbols/15/gift-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6407,7 +6407,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="213,87,203,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/golf-15.svg"/>
+              <prop k="name" v="Symbols/15/golf-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6435,7 +6435,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="205,28,185,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/cemetery-15.svg"/>
+              <prop k="name" v="Symbols/15/cemetery-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6463,7 +6463,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="221,165,53,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/lodging-15.svg"/>
+              <prop k="name" v="Symbols/15/lodging-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6491,7 +6491,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="89,227,197,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/hairdresser-15.svg"/>
+              <prop k="name" v="Symbols/15/hairdresser-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6519,7 +6519,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="163,208,15,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/hospital-15.svg"/>
+              <prop k="name" v="Symbols/15/hospital-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6547,7 +6547,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="148,220,120,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/jewelry-15.svg"/>
+              <prop k="name" v="Symbols/15/jewelry-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6575,7 +6575,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="115,126,225,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/lighthouse-15.svg"/>
+              <prop k="name" v="Symbols/15/lighthouse-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6603,7 +6603,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="132,83,209,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/museum-15.svg"/>
+              <prop k="name" v="Symbols/15/museum-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6631,7 +6631,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="30,212,61,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/bank-15.svg"/>
+              <prop k="name" v="Symbols/15/bank-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6659,7 +6659,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="230,54,83,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/rocket-15.svg"/>
+              <prop k="name" v="Symbols/15/rocket-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6687,7 +6687,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="184,92,227,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/optician-15.svg"/>
+              <prop k="name" v="Symbols/15/optician-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6715,7 +6715,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="112,90,231,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/park-15.svg"/>
+              <prop k="name" v="Symbols/15/park-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6743,7 +6743,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="236,216,111,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/pharmacy-15.svg"/>
+              <prop k="name" v="Symbols/15/pharmacy-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6771,7 +6771,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="188,38,204,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/picnic-site-15.svg"/>
+              <prop k="name" v="Symbols/15/picnic-site-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6799,7 +6799,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="235,195,31,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/baseball-15.svg"/>
+              <prop k="name" v="Symbols/15/baseball-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6827,7 +6827,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="214,161,126,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/playground-15.svg"/>
+              <prop k="name" v="Symbols/15/playground-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6855,7 +6855,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="114,209,166,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/police-15.svg"/>
+              <prop k="name" v="Symbols/15/police-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6883,7 +6883,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="237,83,89,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/post-15.svg"/>
+              <prop k="name" v="Symbols/15/post-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6911,7 +6911,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="201,16,41,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/city-15.svg"/>
+              <prop k="name" v="Symbols/15/city-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6939,7 +6939,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="102,167,220,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/bar-15.svg"/>
+              <prop k="name" v="Symbols/15/bar-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6967,7 +6967,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="148,34,224,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/recycling-15.svg"/>
+              <prop k="name" v="Symbols/15/recycling-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -6995,7 +6995,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="58,68,203,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/college-15.svg"/>
+              <prop k="name" v="Symbols/15/college-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7023,7 +7023,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="229,103,45,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/shelter-15.svg"/>
+              <prop k="name" v="Symbols/15/shelter-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7051,7 +7051,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="232,30,90,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/shoe-15.svg"/>
+              <prop k="name" v="Symbols/15/shoe-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7079,7 +7079,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="213,135,224,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/tennis-15.svg"/>
+              <prop k="name" v="Symbols/15/tennis-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7107,7 +7107,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="207,72,237,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/swimming-15.svg"/>
+              <prop k="name" v="Symbols/15/swimming-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7135,7 +7135,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="130,109,212,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/telephone-15.svg"/>
+              <prop k="name" v="Symbols/15/telephone-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7163,7 +7163,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="118,197,221,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/theatre-15.svg"/>
+              <prop k="name" v="Symbols/15/theatre-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7191,7 +7191,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="86,66,238,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/toilet-15.svg"/>
+              <prop k="name" v="Symbols/15/toilet-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7219,7 +7219,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="163,137,239,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/information-15.svg"/>
+              <prop k="name" v="Symbols/15/information-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7247,7 +7247,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="135,100,224,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="2"/>
-              <prop k="name" v="15/shop-15.svg"/>
+              <prop k="name" v="Symbols/15/shop-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7275,7 +7275,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="76,216,111,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/veterinary-15.svg"/>
+              <prop k="name" v="Symbols/15/veterinary-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7303,7 +7303,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="121,229,157,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/viewpoint-15.svg"/>
+              <prop k="name" v="Symbols/15/viewpoint-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7331,7 +7331,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="53,221,191,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/waste-basket-15.svg"/>
+              <prop k="name" v="Symbols/15/waste-basket-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7359,7 +7359,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="82,218,66,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/windmill-15.svg"/>
+              <prop k="name" v="Symbols/15/windmill-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7387,7 +7387,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="66,225,239,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/zoo-15.svg"/>
+              <prop k="name" v="Symbols/15/zoo-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7415,7 +7415,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="35,35,35,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/marker-15.svg"/>
+              <prop k="name" v="Symbols/15/marker-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7443,7 +7443,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="186,236,60,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/attraction-15.svg"/>
+              <prop k="name" v="Symbols/15/attraction-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7471,7 +7471,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="162,118,212,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/castle-15.svg"/>
+              <prop k="name" v="Symbols/15/castle-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7499,7 +7499,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="211,124,211,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/residential-community-15.svg"/>
+              <prop k="name" v="Symbols/15/residential-community-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7527,7 +7527,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="163,208,15,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/hospital-15.svg"/>
+              <prop k="name" v="Symbols/15/hospital-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7555,7 +7555,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="34,128,221,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/bicycle-15.svg"/>
+              <prop k="name" v="Symbols/15/bicycle-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7583,7 +7583,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="76,231,65,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/fire-station-15.svg"/>
+              <prop k="name" v="Symbols/15/fire-station-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7611,7 +7611,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="114,209,166,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/police-15.svg"/>
+              <prop k="name" v="Symbols/15/police-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7639,7 +7639,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="201,16,41,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/city-15.svg"/>
+              <prop k="name" v="Symbols/15/city-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7667,7 +7667,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="121,229,157,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/viewpoint-15.svg"/>
+              <prop k="name" v="Symbols/15/viewpoint-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7695,7 +7695,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="233,51,203,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/town-hall-15.svg"/>
+              <prop k="name" v="Symbols/15/town-hall-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7723,7 +7723,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="214,100,211,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/beer-15.svg"/>
+              <prop k="name" v="Symbols/15/beer-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7751,7 +7751,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="202,22,13,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/book-15.svg"/>
+              <prop k="name" v="Symbols/15/book-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -19299,7 +19299,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="color" v="58,133,224,255"/>
               <prop k="fixedAspectRatio" v="0"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="name" v="15/waterfall-15.svg"/>
+              <prop k="name" v="Symbols/15/waterfall-15.svg"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -19850,7 +19850,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="121,130,179,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/train-15.svg"/>
+                <prop k="name" v="Symbols/15/train-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -19878,7 +19878,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="203,25,22,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/train-15.svg"/>
+                <prop k="name" v="Symbols/15/train-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -19906,7 +19906,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="60,101,234,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/ferry-15.svg"/>
+                <prop k="name" v="Symbols/15/ferry-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -19934,7 +19934,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="190,178,151,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/train-15.svg"/>
+                <prop k="name" v="Symbols/15/train-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -19962,7 +19962,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="121,130,179,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/tram-15.svg"/>
+                <prop k="name" v="Symbols/15/tram-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -19990,7 +19990,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="121,130,179,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/bus_b-15.svg"/>
+                <prop k="name" v="Symbols/15/bus_b-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20018,7 +20018,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="60,224,107,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/bus_b-15.svg"/>
+                <prop k="name" v="Symbols/15/bus_b-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20046,7 +20046,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="217,178,35,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/taxi-15.svg"/>
+                <prop k="name" v="Symbols/15/taxi-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20074,7 +20074,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="60,101,234,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/ferry-15.svg"/>
+                <prop k="name" v="Symbols/15/ferry-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20102,7 +20102,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="190,178,151,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/train-15.svg"/>
+                <prop k="name" v="Symbols/15/train-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20130,7 +20130,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="121,130,179,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/tram-15.svg"/>
+                <prop k="name" v="Symbols/15/tram-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20158,7 +20158,7 @@ def my_form_open(dialog, layer, feature):
                 <prop k="color" v="121,130,179,255"/>
                 <prop k="fixedAspectRatio" v="0"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="15/bus_b-15.svg"/>
+                <prop k="name" v="Symbols/15/bus_b-15.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -20188,7 +20188,7 @@ def my_form_open(dialog, layer, feature):
             <prop k="color" v="255,0,0,255"/>
             <prop k="fixedAspectRatio" v="0"/>
             <prop k="horizontal_anchor_point" v="1"/>
-            <prop k="name" v="15/stop_b-15.svg"/>
+            <prop k="name" v="Symbols/15/stop_b-15.svg"/>
             <prop k="offset" v="0,0"/>
             <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
             <prop k="offset_unit" v="MM"/>
